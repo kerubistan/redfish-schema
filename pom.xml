@@ -8,6 +8,22 @@
 	<artifactId>redfish-schema</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
+	<name>DMTF Redfish JSON binding classes</name>
+	<description>
+		Binding classes generated from the DMTF Redfish API specification for JSON
+		using jackson annotations.
+		http://www.dmtf.org/standards/redfish
+	</description>
+
+	<url>https://github.com/kerubistan/redfish-schema</url>
+	<scm>
+		<url>https://github.com/kerubistan/redfish-schema</url>
+		<developerConnection>scm:git:ssh://git@github.com:kerubistan/redfish-schema.git</developerConnection>
+		<connection>scm:git:ssh://git@github.com:kerubistan/redfish-schema.git</connection>
+	</scm>
+	<organization>
+		<name>Duct Tape Solutions LTD</name>
+	</organization>
 
 	<dependencies>
 		<dependency>
